@@ -1,2 +1,2 @@
 # Mountblue-2026-
-All mountblue assessmennt 
+All mountblue Assessment task solutions.
